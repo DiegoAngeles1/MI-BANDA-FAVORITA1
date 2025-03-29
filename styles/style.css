@@ -1,0 +1,46 @@
+
+  
+
+html{ 
+    color: #9290C3;
+    background-color: #070F2B;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    text-decoration:solid;
+}
+
+h1{ 
+    padding: 20px 10px 30px 40px;
+    border: 3px solid #535C91;
+    margin: 50px;
+}
+
+h5{ 
+    color:#9290C3;
+    text-decoration:underline;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style:normal;
+}
+
+h6{ 
+    color:#dbdaec;
+    text-decoration:underline;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+a:hover{ 
+    font-size: 20px;
+    color: #9290C3;
+    text-decoration: underline;
+}
+
+p{color: #9290C3;
+
+}
+
